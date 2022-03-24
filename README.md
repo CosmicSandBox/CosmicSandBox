@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My major is 'Brazilian studies'. Second major is 'Computer Engineering'.
+My major is `Brazilian studies`. Second major is `Computer Engineering`.
 
 <!--
 **CosmicSandBox/CosmicSandBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

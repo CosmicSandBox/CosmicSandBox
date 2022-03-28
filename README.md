@@ -1,18 +1,11 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=What's%20up&fontSize=90)
+
 My major is `Brazilian studies`. Second major is `Computer Engineering`.
 
 Let's write code!
 
-https://capsule-render.vercel.app/api?
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-// 내 옵션
-배경타입 : waving
-높이 : 200
-텍스트 : HelloWorld!%20!🥳
-글자크기 : 50
-텍스트효과 : twinkling
 
 
 <!--

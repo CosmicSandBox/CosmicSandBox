@@ -1,6 +1,6 @@
 ### 🚀
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=skyblue&height=300&section=header&text=Welcome%20to%20my%20SandBox%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=Welcome%20to%20my%20SandBox%20&fontSize=50)
 
 I can speak korean
 

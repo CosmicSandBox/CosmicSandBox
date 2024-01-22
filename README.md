@@ -1,10 +1,9 @@
-### Conas a ta tu 🚀
+### 🚀
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20my%20SandBox%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=skyblue&height=300&section=header&text=Welcome%20to%20my%20SandBox%20&fontSize=50)
 
-My major is `Brazilian studies(Portuguese)`. Second major is `Software & AI`.
+I can speak korean
 
-Let's code!
 
 
 

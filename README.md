@@ -4,6 +4,7 @@
 
 I can speak korean
 
+[![JaeWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmicSandBox)](https://github.com/CosmicSandBox/github-readme-stats)
 
 
 

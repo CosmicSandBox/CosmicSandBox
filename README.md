@@ -4,7 +4,7 @@
 
 <div align="center">
     
-# 안녕하세요, 김재우입니다 
+#안녕하세요, 김재우입니다 
     
 </div>
 
@@ -37,8 +37,8 @@
 ## 🎓 Education
 
 - **한국외국어대학교 (Hankuk Univ. of Foreign Studies)** (2019.03 ~ 2026.02)
-    - 🇧🇷 **브라질학과** (주전공)
-  t- 💻 **SoftWare & AI** (이중전공)
+    - 🇧🇷 **브라질학과** (주전공)
+    - 💻 **SoftWare & AI** (이중전공)
 
 ## 🌍 Languages
 

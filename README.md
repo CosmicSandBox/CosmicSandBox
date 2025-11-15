@@ -2,7 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=180&section=header&text=Welcome!&fontSize=70&animation=fadeIn" />
 </div>
 
-# 안녕하세요, 김재우 입니다.
+<div align="center">
+  # 안녕하세요, 김재우 입니다.
+</div>
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">

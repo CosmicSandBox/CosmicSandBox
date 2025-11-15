@@ -96,7 +96,6 @@
 ---
 
 ## 🚀 Featured Projects
-> 프로젝트의 기획, PM, 개발, 문제 해결 경험이 잘 드러나는 핵심 프로젝트입니다.
 
 | Project | Description | Role | Techs |
 |:---:|:---|:---:|:---|

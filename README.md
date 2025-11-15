@@ -4,29 +4,45 @@
 
 <div align="center">
     
-#안녕하세요, 김재우입니다
+# 안녕하세요, 김재우입니다
     
-</div>
-
 <br>
 
+<div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicSandBox&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=40% />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=CosmicSandBox&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=54% />
     </a>
+</div>
 
 ---
 
 ## 📫 Contact & Channels
 
-| Type | Link |
-|:---:|:---:|
-| 📧 **Email** | `kimjaewoo13579@gmail.com` |
-|  velog | `https://velog.io/@cosmicsandbox` |
-| 💼 LinkedIn | `https://www.linkedin.com/in/jaew00kim/`  |
-| 🐱 GitHub | `https://github.com/CosmicSandBox ` |
+<table align="center">
+  <tr align="center">
+    <th>Type</th>
+    <th>Link</th>
+  </tr>
+  <tr align="center">
+    <td>📧 <b>Email</b></td>
+    <td><code>kimjaewoo13579@gmail.com</code></td>
+  </tr>
+  <tr align="center">
+    <td> velog</td>
+    <td><a href="https://velog.io/@cosmicsandbox">https://velog.io/@cosmicsandbox</a></td>
+  </tr>
+  <tr align="center">
+    <td>💼 LinkedIn</td>
+    <td><a href="https://www.linkedin.com/in/jaew00kim/">https://www.linkedin.com/in/jaew00kim/</a></td>
+  </tr>
+  <tr align="center">
+    <td>🐱 GitHub</td>
+    <td><a href="https://github.com/CosmicSandBox">https://github.com/CosmicSandBox</a></td>
+  </tr>
+</table>
 
 ## 🎓 Education
 

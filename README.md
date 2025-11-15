@@ -287,10 +287,8 @@
 </details>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=150&section=footer&animation=fadeIn" />
 </div>
-
-[![JaeWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmicSandBox)](https://github.com/CosmicSandBox/github-readme-stats)
 
 
 

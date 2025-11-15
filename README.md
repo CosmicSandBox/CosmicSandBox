@@ -96,8 +96,8 @@
 
 | Project | Description | Role | Techs |
 |:---:|:---|:---:|:---|
-| **WeMeetNow (오.보.맞)** | 🏆 대상 / 다중 출발지 최단 시간 비교 웹 | **백엔드 개발** | `Python`, `Selenium`, `Kakao API` |
-| **SubMate (캡스톤)** | 🏆 A+ / 구독 서비스 통합 관리 웹 | **팀 공동 팀장, FE 단독 개발** | `Next.js`, `TypeScript`, `Zustand` |
+| **WeMeetNow (오.보.맞)** | 🏆 대상 / 다중 출발지 최단 시간 비교 웹 | **프론트 개발** | `React,` `Styled Components` |
+| **SubMate (캡스톤 디자인 졸업 프로젝트)** | A+ / 구독 서비스 통합 관리 웹 | **팀 공동 팀장, FE 단독 개발** | `Next.js`, `TypeScript`, `Zustand` |
 | **구해줘멍즈 (갭이어)** | 1,240만원 예산 유기견 매칭 플랫폼 | **팀장, PM, 회계, Tech Lead** | `Next.js`, `Zustand`, `Jira` |
 | **WalkMate (Challkathon)** | 🏆 우수상 / 환자(앱)-보호자(웹) 듀얼 헬스케어 | **기획, FE (Web & App)** | `React Native`, `Expo`, `Redux Toolkit` |
 | **BOO릉 (미니프로젝트)** | 🏆 우수상 / 교내 카풀 중개 웹 | **팀장, PM, 기획, 디자인, FE** | `React`, `Django`, `Figma` |
@@ -125,10 +125,10 @@
     <li><b>TIFY (미니프로젝트)</b>: <b>4인 팀 팀장</b>. 'D-Day 어드벤트 캘린더' 웹 서비스. React, React-Router-DOM 기반 개발. <b>Git Repo 관리자</b>로서 브랜치 전략 수립 및 Merge Conflict 해결.</li>
     <li><b>Wheel_Go (아이디어톤)</b>: <b>핵심 아이디어 제안자</b>. 휠체어 배리어프리 내비게이션 'Wheel_Go' 기획. 시장 분석(3C), 차별화 전략, BM 기획.</li>
     <li><b>벚꽃톤 (해커톤)</b>: <b>아이디어 기획자, UI/UX 기획, 프론트엔드</b>. '빼빼로데이' 바이럴 퀴즈 앱 기획 및 와이어프레임 설계, React 초기 개발.</li>
-    <li><b>너만의 명함을 만들어봐 (프로젝트)</b>: <b>UI 디자이너, 프론트엔드 개발자</b>. 11기 모집 홍보용 디지털 명함 웹 앱. React 기반 Home 페이지 개발 및 전체 UI/UX 설계.</li>
+    <li><b>너만의 명함을 만들어봐 (프로젝트)</b>: <b>UI 디자이너, 프론트엔드 개발자</b>. 11기 모집 홍보용 디지털 명함 웹 앱. React 기반 Home 페이지 개발.</li>
     <li><b>아이디어톤 심사위원</b>: 운영진 자격으로 본선 심사위원 참여.</li>
     <li><b>기획/디자인 세션 발표</b>: 11기 대상 '웹 기획 및 Figma 실무' 기술 세션 단독 기획 및 발표.</li>
-    <li><b>멋스타트 TF (운영진)</b>: <b>대외협력 및 운영 담당</b>. 100명 규모 이취임식 기획. '다우기술' 컨택 및 강연 유치, 행사장 대관, 로지스틱스 총괄.</li>
+    <li><b>멋스타트 TF (운영진)</b>: <b>대외협력 및 운영 담당</b>. 30명 규모 기획. '다우기술' 컨택 및 강연 유치, 행사장 대관, 스폰서 및 물품 구매 총괄.</li>
   </ul>
 </details>
 
@@ -136,9 +136,9 @@
 <summary><strong>멋쟁이사자처럼 10기 (2022, 백엔드)</strong></summary>
   <ul>
     <li><b>메이플 타자왕 (슈퍼해커톤)</b>: <b>기획/개발 트랙</b>. 넥슨 MSW 플랫폼, Lua 스크립트 활용 타자 게임 개발 및 런칭.</li>
-    <li><b>WeMeetNow (오.보.맞) (연합 해커톤)</b>: <b>🏆 대상 수상</b>. <b>백엔드 개발자</b>. 다수의 출발지-목적지 간 최단 시간 비교 웹. <b>Selenium 웹 크롤러</b> 및 Kakao 주소 API 연동.</li>
+    <li><b>WeMeetNow (오.보.맞) (연합 해커톤)</b>: <b>🏆 대상 수상</b>. <b>프론트 개발자</b>.
     <li><b>Feel My Season (넥슨 MSW 해커톤)</b>: <b>게임 기획, 핵심 로직 개발</b>. 메이플 BGM 활용 리듬 게임. Lua 스크립트로 키 입력, 판정 로직 구현.</li>
-    <li><b>들어봤니 모현의 숲 (미니프로젝트)</b>: <b>풀스택 개발자</b>. 교내 바이럴 '동물 MBTI' 테스트 웹. Heroku 배포. 사용자 429명 달성.</li>
+    <li><b>들어봤니 모현의 숲 (미니프로젝트)</b>: <b>프론트 개발자 및 기획자</b>. 교내 바이럴 '동물 MBTI' 테스트 웹. 사용자 429명 달성.</li>
     <li><b>KB Pay 아이디어 공모전</b>: 'StarNFT' (메시지 NFT 발행) 서비스 기획.</li>
     <li><b>모현의 숲 Study With Me (커뮤니티 운영)</b>: <b>기획 및 기술 운영</b>. OBS, Youtube Live, Discord 활용 24시간 스터디룸 기획, 홍보, 송출.</li>
     <li><b>창업아이디어경진대회 (모현의 숲)</b>: <b>기술 총괄</b>. 'Study With Me' 라이브 스트리밍 기술(OBS, Google Meet) 및 플랫폼(Discord, Notion) 운영.</li>
@@ -151,7 +151,7 @@
 <details>
 <summary><strong>캡스톤 디자인 (SubMate) (2025, AI융합전공)</strong></summary>
   <ul>
-    <li><b>역할</b>: <b>🏆 A+ 학점, 팀 공동 팀장, 프론트엔드 단독 개발</b></li>
+    <li><b>역할</b>: <b> A+ 학점, 팀 공동 팀장, 프론트엔드 단독 개발</b></li>
     <li><b>개요</b>: 구독 서비스 통합 관리 웹 'SubMate' 기획, 디자인, FE 단독 개발.</li>
     <li><b>성과</b>:
         <ul>
@@ -166,12 +166,12 @@
 <details>
 <summary><strong>경기청년 갭이어 (세이브미멍즈) (2024.05 ~ 11)</strong></summary>
   <ul>
-    <li><b>역할</b>: <b>팀장 (PM, 회계/행정 총괄, Tech Lead, FE 개발)</b></li>
+    <li><b>역할</b>: <b>팀장 (PM, 회계/행정 총괄, FE 개발)</b></li>
     <li><b>개요</b>: 6개월간 <b>1,240만원 예산</b>을 지원받아 유기견 매칭 및 '댕카이브' 플랫폼 개발. (<i>*프로젝트명 '구해줘멍즈'로 수정됨*</i>)</li>
     <li><b>성과</b>:
         <ul>
             <li><b>PM & 회계</b>: 1,240만원 예산 집행, 증빙, 정산 보고서까지 <b>모든 행정/회계 업무 단독 처리</b>.</li>
-            <li><b>Tech Lead</b>: Next.js, Zustand 등 기술 스택 선정. <b>Jira-GitHub Actions 자동 연동</b>, Git 브랜치 전략 등 고도화된 협업 환경 구축.</li>
+            <li><b>Tech</b>: Next.js, Zustand 등 기술 스택 선정. <b>Jira-GitHub Actions 자동 연동</b>, Git 브랜치 전략 등 고도화된 협업 환경 구축.</li>
             <li><b>Pivoting</b>: 초기 '보호소 섭외' 방식에서 '경기도 공공데이터 API' 활용으로 프로젝트 방향성 성공적 피벗.</li>
             <li><b>Dev</b>: 로그인, 마이페이지, 로딩 스켈레톤 UI, Zustand 전역 상태 관리.</li>
         </ul>
@@ -179,7 +179,7 @@
 </details>
 
 <details>
-<summary><strong>중남미 연구소 (디지털팀 학부연구생) (2022.03 ~ 현재)</strong></summary>
+<summary><strong>중남미 연구소 (디지털팀 학부연구생) (2022.03 ~ 25.12)</strong></summary>
   <ul>
     <li><b>역할</b>: 디지털팀 학부연구생</li>
     <li><b>업무</b>:
@@ -189,14 +189,6 @@
             <li>연구소 홈페이지 리모델링을 위한 웹 외주 업체 리서치.</li>
             <li>해외 도서관 정보 웹 크롤링 작업 수행.</li>
         </ul>
-  </ul>
-</details>
-
-<details>
-<summary><strong>학과 근무 (2021 ~ 2025)</strong></summary>
-  <ul>
-    <li><b>학과 수직 근무</b> (21년 2학기~25년 2학기): 학과 사무실 전화 응대, 서류 처리 등.</li>
-    <li><b>학과 조교 근무</b> (23년 1학기): 졸업시험, 수강신청, 카드 내역 관리, 강사 재임용 등 학과 행정 전반 담당.</li>
   </ul>
 </details>
 
@@ -220,11 +212,11 @@
 </details>
 
 <details>
-<summary><strong>Prometheus AI 해커톤 (닥터로우) (2024)</strong></summary>
+<summary><strong>Prometheus AI 해커톤 (Dr.Law) (2024)</strong></summary>
   <ul>
     <li><b>역할</b>: <b>프론트엔드 개발자</b></li>
     <li><b>개요</b>: AI 계약서 분석 및 생성 웹 서비스.</li>
-    <li><b>개발</b>: Figma 디자인 기반 UI 구현. 계약서 분석/생성/기록/인증 등 <b>핵심 기능의 모든 사용자 플로우 개발</b> 담당. Postman 활용 API 연동.</li>
+    <li><b>개발</b>: Figma 디자인 기반 UI 구현. 계약서 분석/생성/기록/인증 등 <b>핵심 기능의 사용자 플로우 개발</b> 담당. Postman 활용 API 연동.</li>
   </ul>
 </details>
 
@@ -260,7 +252,7 @@
   <ul>
     <li><b>역할</b>: <b>프론트엔드 개발자, 프로젝트 문서화 담당</b></li>
     <li><b>개요</b>: 질문 기반 여행지 추천 (MBTI 테스트) 웹.</li>
-    <li><b>개발</b>: <b>API 호출 로직 모듈화(fbase.js) 리팩토링</b>. Firebase(Firestore) 연동, html2canvas (결과 저장) 기능 구현. '요구사항 정의서(SRS)' 작성 주도.</li>
+    <li><b>개발</b>: Firebase(Firestore) 연동 보조, html2canvas (결과 저장) 기능 구현. '요구사항 정의서(SRS)' 작성.</li>
   </ul>
 </details>
 
@@ -300,7 +292,7 @@
 <summary><strong>풍생고등학교 코딩교육 봉사 (2022.08 ~ 2024)</strong></summary>
   <ul>
     <li><b>역할</b>: <b>코딩 강사 / (23~24년) 총괄 담당자 (PM)</b></li>
-    <li><b>2024년</b>: <b>프론트엔드 기술 세션(React API)</b> 단독 기획/발표. (REST API, async/await, .env, .gitignore 등)</li>
+    <li><b>2024년</b>: <b>프론트엔드 기술 세션(React API)</b>. (REST API, async/await, .env, .gitignore 등)</li>
     <li><b>2023년</b>: <b>총괄 담당자(PM)</b>. <b>14명 강사 인력 및 110만원 회계/정산 단독 처리</b>. '자기소개 페이지 만들기' 커리큘럼(HTML/CSS/JS) 기획 및 운영. 생기부 관리.</li>
 * <b>2022년</b>: <b>보조 강사</b>. HTML 기초 교육 멘토링 및 학생 생기부용 평가 작성.
   </ul>
@@ -326,48 +318,3 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=150&section=footer&animation=fadeIn" />
 </div>
-
-
-
-이거에다가
-
-### ✨ Tech Stacks
-<div align="center">
-    <div>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=Html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=Css3&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-A   </div>
-    <div>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
-        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white">
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white">
-        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white">
-        <img src="https://img.shields.io/badge/🐻%20Zustand-000000?style=flat&logoColor=white">
-        <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
-        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
-        <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=SourceTree&logoColor=white">
-        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white">
-    </div>
-</div>
-
-중간에 A라고 적힌거 제거해줘

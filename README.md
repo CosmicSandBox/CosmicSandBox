@@ -46,14 +46,13 @@
 ## ✨ Tech Stacks
 
 ### 💻 Core & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,vite,reactnative,expo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,vite,reactnative,expo&t=1)](https://skillicons.dev)
 
 ### 🎨 Styling & State Management
-[![My Skills](https://skillicons.dev/icons?i=styledcomponents,mui,zustand,recoil)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents,mui,zustand,recoil&t=1)](https://skillicons.dev)
 
 ### 🛠️ Tools & Cooperation
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,notion,jira,slack,vercel,androidstudio,postman,sourcetree,intellij)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,notion,jira,slack,vercel,androidstudio,postman,sourcetree,intellij&t=1)](https://skillicons.dev)
 ---
 
 ## 🚀 Featured Projects

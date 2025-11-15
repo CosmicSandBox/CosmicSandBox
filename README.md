@@ -23,16 +23,12 @@
 
 ## 📫 Contact & Channels
 
-<div align="center">
-    
 | Type | Link |
 |:---:|:---:|
 | 📧 **Email** | `kimjaewoo13579@gmail.com` |
 |  velog | `https://velog.io/@cosmicsandbox` |
 | 💼 LinkedIn | `https://www.linkedin.com/in/jaew00kim/`  |
 | 🐱 GitHub | `https://github.com/CosmicSandBox ` |
-
-</div>
 
 ## 🎓 Education
 

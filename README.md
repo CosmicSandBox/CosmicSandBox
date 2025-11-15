@@ -43,16 +43,45 @@
 
 ---
 
-## ✨ Tech Stacks
+### ✨ Tech Stacks
+<div align="center">
+    <div>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=Html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=Css3&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white">
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white">
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white">
+        <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white">
+        <img src="https://img.shields.io/badge/🐻%20Zustand-000000?style=flat&logoColor=white">
+        <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white">
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
+    </div>
+    <div>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
+        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
+        <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=SourceTree&logoColor=white">
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white">
+    </div>
+</div>
 
-### 💻 Core & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,vite,reactnative,expo&t=1)](https://skillicons.dev)
-
-### 🎨 Styling & State Management
-[![My Skills](https://skillicons.dev/icons?i=styledcomponents,mui,zustand,recoil&t=1)](https://skillicons.dev)
-
-### 🛠️ Tools & Cooperation
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,notion,jira,slack,vercel,androidstudio,postman,sourcetree,intellij&t=1)](https://skillicons.dev)
 ---
 
 ## 🚀 Featured Projects

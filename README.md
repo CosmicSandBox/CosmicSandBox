@@ -52,7 +52,7 @@
 [![My Skills](https://skillicons.dev/icons?i=styledcomponents,mui,zustand,recoil)](https://skillicons.dev)
 
 ### 🛠️ Tools & Cooperation
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,notion,jira,slack,vercel,androidstudio,postman,sourcetree,intelliJ)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,notion,jira,slack,vercel,androidstudio,postman,sourcetree,intellij)](https://skillicons.dev)
 
 ---
 
@@ -69,7 +69,7 @@
 ---
 
 ## 🔥 Career & Activities
-> 2021년부터 현재까지의 모든 경험을 요약했습니다. (클릭하여 펼쳐보기 👇)
+> 2021년부터 현재까지의 모든 경험을 요약했습니다.
 
 ### 🦁 멋쟁이사자처럼 (LikeLion) (2022 ~ 2024)
 <details>

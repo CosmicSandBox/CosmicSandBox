@@ -1,8 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=180&section=header&text=Welcome!&fontSize=70&animation=fadeIn" />
 </div>
-
-<div align="center">
     
 # 안녕하세요, 김재우입니다
     

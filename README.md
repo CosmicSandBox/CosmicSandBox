@@ -148,6 +148,16 @@
   </ul>
 </details>
 
+### 🥑 UMC (University MakeUs Challenge) - Web
+<details>
+<summary><strong>UMC Web Activities (2024 ~ 2025)</strong></summary>
+  <ul>
+    <li><b>UMC Web (스터디)</b>: React, Redux Toolkit, Tanstack-Query, 무한 스크롤, 인증 등 모던 프론트엔드 커리큘럼 이수.</li>
+    <li><b>UMC Web 프로젝트 (그로우 팔레트)</b>: <b>프론트엔드 팀장</b>. GitHub Org 및 브랜치 전략 등 협업 환경 구축. React, Styled-components 기반 포트폴리오 관리 웹 개발.</li>
+    <li><b>1st Challkathon (워크메이트)</b>: <b>🏆 우수상</b> (UMC 연합). <b>서비스 기획, 프론트엔드 개발 (Web & App)</b>. 환자(React Native 앱)와 보호자(React 웹)를 위한 듀얼 헬스케어 플랫폼 개발.</li>
+  </ul>
+</details>
+
 ---
 
 ### 🎓 학과, 연구소, 갭이어 (Academic & Research)

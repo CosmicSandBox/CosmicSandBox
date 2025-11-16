@@ -89,7 +89,7 @@
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
     </div>
     <div>
-        <img src="httpsImage/shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
+        <img src="https://imb.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
         <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white">
         <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=SourceTree&logoColor=white">
         <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white">

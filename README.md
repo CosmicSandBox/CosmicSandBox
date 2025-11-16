@@ -325,7 +325,7 @@
 </details>
 
 <details>
-<summary><strong>Shinhan Hackathon with SSAFY (2023.09)</strong></summary>
+<summary><strong>Shinhan Hackathon with SSAFY (SAMSUNG) (2023.09)</strong></summary>
   <ul>
     <li><b>역할</b>: <b>Support Staff</b></li>
     <li><b>업무</b>: 신한은행 x 삼성(SSAFY) 해커톤 현장 운영 스태프.</li>

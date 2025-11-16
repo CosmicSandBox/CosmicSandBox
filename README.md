@@ -196,7 +196,7 @@
 </details>
 
 <details>
-<summary><strong>중남미 연구소 (디지털팀 학부연구생) (2022.03 ~ 25.12)</strong></summary>
+<summary><strong>중남미 연구소 (디지털팀 학부조교) (2022.03 ~ 25.12)</strong></summary>
   <ul>
     <li><b>역할</b>: 디지털팀 학부연구생</li>
     <li><b>업무</b>:

@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=180&section=header&text=Welcome!&fontSize=70&animation=fadeIn" />
 </div>
 
-<h1 align="center">안녕하세요, 김재우 입니다.</h1>
+<h2 align="center">안녕하세요, 김재우 입니다.</h2>
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -101,7 +101,7 @@
 |:---:|:---|:---:|:---|
 | **WeMeetNow (오.보.맞)** | 🏆 대상 / 다중 출발지 최단 시간 비교 웹 | **프론트 개발** | `React,` `Styled Components` |
 | **SubMate (캡스톤 디자인 졸업 프로젝트)** | A+ / 구독 서비스 통합 관리 웹 | **팀 공동 팀장, FE 단독 개발** | `Next.js`, `TypeScript`, `Zustand` |
-| **구해줘멍즈 (갭이어)** | 1,240만원 예산 유기견 매칭 플랫폼 | **팀장, PM, 회계, Tech Lead** | `Next.js`, `Zustand`, `Jira` |
+| **구해줘멍즈 (갭이어)** | 1,240만원 예산 유기견 매칭 플랫폼 | **팀장, PM, 회계, 프론트 개발** | `Next.js`, `Zustand`, `Jira` |
 | **WalkMate (Challkathon)** | 🏆 우수상 / 환자(앱)-보호자(웹) 듀얼 헬스케어 | **기획, FE (Web & App)** | `React Native`, `Expo`, `Redux Toolkit` |
 | **BOO릉 (미니프로젝트)** | 🏆 우수상 / 교내 카풀 중개 웹 | **팀장, PM, 기획, 디자인, FE** | `React`, `Django`, `Figma` |
 
@@ -159,7 +159,7 @@
 
 ---
 
-### 🎓 학과, 연구소, 갭이어 (Academic & Research)
+### 🎓 연구소, 갭이어 (Academic & Research)
 <details>
 <summary><strong>캡스톤 디자인 (SubMate) (2025, AI융합전공)</strong></summary>
   <ul>
@@ -176,10 +176,10 @@
 </details>
 
 <details>
-<summary><strong>경기청년 갭이어 (세이브미멍즈) (2024.05 ~ 11)</strong></summary>
+<summary><strong>경기청년 갭이어 (구해줘멍즈) (2024.05 ~ 11)</strong></summary>
   <ul>
     <li><b>역할</b>: <b>팀장 (PM, 회계/행정 총괄, FE 개발)</b></li>
-    <li><b>개요</b>: 6개월간 <b>1,240만원 예산</b>을 지원받아 유기견 매칭 및 '댕카이브' 플랫폼 개발. (<i>*프로젝트명 '구해줘멍즈'로 수정됨*</i>)</li>
+    <li><b>개요</b>: 6개월간 <b>1,240만원 예산</b>을 지원받아 유기견 매칭 및 '구해줘멍즈' 플랫폼 개발. </li>
     <li><b>성과</b>:
         <ul>
             <li><b>PM & 회계</b>: 1,240만원 예산 집행, 증빙, 정산 보고서까지 <b>모든 행정/회계 업무 단독 처리</b>.</li>
@@ -305,7 +305,7 @@
   <ul>
     <li><b>역할</b>: <b>코딩 강사 / (23~24년) 총괄 담당자 (PM)</b></li>
     <li><b>2024년</b>: <b>프론트엔드 기술 세션(React API)</b>. (REST API, async/await, .env, .gitignore 등)</li>
-    <li><b>2023년</b>: <b>총괄 담당자(PM)</b>. <b>14명 강사 인력 및 110만원 회계/정산 단독 처리</b>. '자기소개 페이지 만들기' 커리큘럼(HTML/CSS/JS) 기획 및 운영. 생기부 관리.</li>
+    <li><b>2023년</b>: <b>총괄 담당자</b>. <b>14명 강사 인력 및 110만원 회계/정산 단독 처리</b>. '자기소개 페이지 만들기' 커리큘럼(HTML/CSS/JS) 기획 및 운영. 생기부 관리.</li>
 * <b>2022년</b>: <b>보조 강사</b>. HTML 기초 교육 멘토링 및 학생 생기부용 평가 작성.
   </ul>
 </details>

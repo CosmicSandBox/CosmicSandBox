@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=180&section=header&text=Welcome!&fontSize=70&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=180&section=header&text=Bem Vindo!&fontSize=70&animation=fadeIn" />
 </div>
 
-<h2 align="center">Bem Vindo! I'm JaeWoo Kim</h2>
+<h2 align="center">Olá! I'm JaeWoo Kim</h2>
 
 <div align="center">
      <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">

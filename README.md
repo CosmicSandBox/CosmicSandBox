@@ -5,12 +5,12 @@
 <h2 align="center">안녕하세요, 김재우 입니다.</h2>
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicSandBox&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=28% />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=CosmicSandBox&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=42% />
-    </a>
+     <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicSandBox&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=28% />
+     </a>
+     <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
+       <img src="https://github-readme-stats.vercel.app/api?username=CosmicSandBox&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=42% />
+     </a>
 </div>
 
 ---
@@ -27,7 +27,7 @@
     <td><code>kimjaewoo13579@gmail.com</code></td>
   </tr>
   <tr align="center">
-    <td> velog</td>
+    <td>🆅 velog</td>
     <td><a href="https://velog.io/@cosmicsandbox">https://velog.io/@cosmicsandbox</a></td>
   </tr>
   <tr align="center">
@@ -72,6 +72,7 @@
     </div>
     <div>
         <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white">
         <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white">
         <img src="https://img.shields.io/badge/🐻%20Zustand-000000?style=flat&logoColor=white">
         <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white">
@@ -90,6 +91,7 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
         <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=SourceTree&logoColor=white">
         <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white">
+        <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white">
     </div>
 </div>
 

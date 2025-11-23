@@ -4,7 +4,6 @@
 
 <h2 align="center">Olá! I'm JaeWoo Kim</h2>
 
----
 
 ## 📫 Contact & Channels
 

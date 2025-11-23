@@ -99,7 +99,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Featured Projects, 🏅 Awards
 
 | Project | Description | Role | Techs |
 |:---:|:---|:---:|:---|

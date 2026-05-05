@@ -107,10 +107,8 @@
 
 ### 🦁 멋쟁이사자처럼 (LikeLion) (2022 ~ 2024)
 <details>
-<summary><strong>멋쟁이사자처럼 12기 (2024, 프론트엔드) + UMC (University MakeUs Challenge) 6th</strong></summary>
+<summary><strong>멋쟁이사자처럼 12기 (2024, 프론트엔드)</strong></summary>
   <ul>
-    <li><b>UMC Web (스터디)</b>: React, Redux Toolkit, Tanstack-Query, 무한 스크롤, 인증 등 모던 프론트엔드 커리큘럼 이수.</li>
-    <li><b>UMC Web 프로젝트 (그로우 팔레트)</b>: <b>프론트엔드 팀장</b>. GitHub Org 및 브랜치 전략 등 협업 환경 구축. React, Styled-components 기반 포트폴리오 관리 웹 개발.</li>
     <li><b>기부드림 (중앙해커톤)</b>: <b>프론트엔드 개발자</b>. '투명한 물품 기부' 플랫폼. <b>Vite, Recoil</b> 등 신규 스택 도입 및 API 연동. '사회적 웰니스' 주제로 기획 참여.</li>
     <li><b>BOO릉 카풀 서비스 (미니프로젝트)</b>: <b>🏆 우수상</b>. <b>7인 팀 팀장(PM)</b>. 교내 카풀 서비스 기획, Figma 디자인, API 명세서 전체 설계 및 FE 개발. 'Props Drilling'의 한계를 체감하고 전역 상태 관리의 필요성 학습.</li>
   </ul>
@@ -145,6 +143,7 @@
 
 ### 🥑 UMC (University MakeUs Challenge) - Web (2024 ~ 2025)
 <details>
+<summary><strong>UMC (University MakeUs Challenge) 6th</strong></summary>
   <ul>
     <li><b>UMC Web (스터디)</b>: React, Redux Toolkit, Tanstack-Query, 무한 스크롤, 인증 등 모던 프론트엔드 커리큘럼 이수.</li>
     <li><b>UMC Web 프로젝트 (그로우 팔레트)</b>: <b>프론트엔드 팀장</b>. GitHub Org 및 브랜치 전략 등 협업 환경 구축. React, Styled-components 기반 포트폴리오 관리 웹 개발.</li>

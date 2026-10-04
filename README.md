@@ -33,14 +33,14 @@
 ## 🎓 Education
 
 - **한국외국어대학교 (Hankuk Univ. of Foreign Studies)** (2019.03 ~ 2026.02)
-    - 🇧🇷 **Português brasileiro** (주전공)
+    - 🇵🇹 🇧🇷 **Portuguese and Brazilian Studies** (주전공)
     - 💻 **SoftWare & AI** (이중전공)
 
 ## 🌍 Languages
 
 * **🇰🇷 Korean**: Native
 * **🇦🇺 English**: Professional Proficiency (IELTS Overall 7.0) (Reading, Listening each band 8.0)
-* **🇧🇷 Portuguese**: Business Proficiency (Major)
+* **🇵🇹 Portuguese**: Business Proficiency (Major)
 
 ---
 
